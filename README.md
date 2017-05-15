@@ -1,5 +1,5 @@
-# pls50-E6
-ΕΑΠ ΕΡΓΑΣΙΑ 6  
+﻿# pls50-E6
+  ΕΑΠ ΕΡΓΑΣΙΑ 6  
 
 --------------------  
 ADDED INFO TO README 
@@ -11,3 +11,4 @@ ADDED INFO TO README
 END OF ADDITION
 -------------------
 
+  **LOCAL COPY-ADDITION OF ERGASIES 1-2**  DATE:15/05/2017  TIME:19:21
